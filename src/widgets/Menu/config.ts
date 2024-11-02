@@ -148,7 +148,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://x.com/DYNASTY_COIN",
+    href: "https://twitter.com/DYNASTY_COIN",
   },
 ];
 
